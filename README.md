@@ -1,2 +1,3 @@
-# Portfolio Web
-Repositorio destinado ao meu portifolio Web.
+# João Pedro
+
+Desenvolvedor em formação focado em Full Stack...
