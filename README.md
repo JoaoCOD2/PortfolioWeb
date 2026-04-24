@@ -40,7 +40,7 @@ Este projeto é um site de portfólio moderno e responsivo, desenvolvido com foc
 
 ## ▶️ Como visualizar
 
-- Ainda nao postado no GitHub Pages
+[- Acesse o Portfólio](https://joaocod2.github.io/PortfolioWeb/)
 
 ## 📌 Próximos passos
 
